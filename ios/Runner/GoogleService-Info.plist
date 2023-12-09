@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>292836882039-eup5o91j2fglkmurr7dkp68a49l98lus.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.292836882039-eup5o91j2fglkmurr7dkp68a49l98lus</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>292836882039-4bbc4hdl7k9v6thsu4nqdlh24918r452.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCViyUP7ceMusaTS9la_pO1WJAzuVr0e_M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>292836882039</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.instamatching.mobile</string>
+	<key>PROJECT_ID</key>
+	<string>dating-app-3a222</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dating-app-3a222.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:292836882039:ios:56dcd898134fab78c4b872</string>
+	<key>DATABASE_URL</key>
+	<string>https://dating-app-3a222-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

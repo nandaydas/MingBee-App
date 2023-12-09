@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292836882039",
+    "project_id": "dating-app-3a222",
+    "storage_bucket": "dating-app-3a222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292836882039:android:2eaa3909704422b3c4b872",
+        "android_client_info": {
+          "package_name": "com.instamatching.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw9EDJeIHtYOrbNf5LzSZHUD1PDSoP5Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
