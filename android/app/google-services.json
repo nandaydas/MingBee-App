@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "292836882039",
+    "firebase_url": "https://dating-app-3a222-default-rtdb.firebaseio.com",
     "project_id": "dating-app-3a222",
     "storage_bucket": "dating-app-3a222.appspot.com"
   },
@@ -12,7 +13,28 @@
           "package_name": "com.instamatching.mobile"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "292836882039-4bbc4hdl7k9v6thsu4nqdlh24918r452.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instamatching.mobile",
+            "certificate_hash": "c1fa8d8c282b6cd8422657cbc706c581d9e37dfc"
+          }
+        },
+        {
+          "client_id": "292836882039-mumdsoecd77hsl08jt0d5lp0elnlm4vs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instamatching.mobile",
+            "certificate_hash": "aa8086b526f1c23198ece051047dff549b0db24c"
+          }
+        },
+        {
+          "client_id": "292836882039-u4cmm3v70vihnelqm211pdan21b9p5ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAw9EDJeIHtYOrbNf5LzSZHUD1PDSoP5Zs"
@@ -20,7 +42,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292836882039-u4cmm3v70vihnelqm211pdan21b9p5ug.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292836882039-eup5o91j2fglkmurr7dkp68a49l98lus.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.instamatching.mobile"
+              }
+            }
+          ]
         }
       }
     }

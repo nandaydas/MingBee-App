@@ -1,5 +1,4 @@
 import 'dart:io';
-
 import 'package:country_code_picker/country_localizations.dart';
 import 'package:dating_app/helpers/app_localizations.dart';
 import 'package:dating_app/models/user_model.dart';
@@ -18,16 +17,10 @@ import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 
 void main() async {
-
-  // Initialized before calling runApp to init firebase app
   WidgetsFlutterBinding.ensureInitialized();
-
-  /// ***  Initialize Firebase App *** ///
-  /// 👉 Please check the [Documentation - README FIRST] instructions in the
-  /// Table of Contents at section: [NEW - Firebase initialization for Dating App]
-  /// in order to fix it and generate the required [firebase_options.dart] for your app.
-  /// TODO:
-  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
 
   // Initialize Google Mobile Ads SDK
   await MobileAds.instance.initialize();

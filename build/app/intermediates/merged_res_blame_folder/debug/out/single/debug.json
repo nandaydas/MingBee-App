@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/drawable-xxxhdpi_splash.png.flat",
+        "source": "com.instamatching.mobile.app-main-34:/drawable-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/drawable-v21_background.png.flat",
+        "source": "com.instamatching.mobile.app-main-34:/drawable-v21/background.png"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/drawable-v21_launch_background.xml.flat",
+        "source": "com.instamatching.mobile.app-main-34:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/drawable-xxhdpi_splash.png.flat",
+        "source": "com.instamatching.mobile.app-main-34:/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/drawable-xhdpi_splash.png.flat",
+        "source": "com.instamatching.mobile.app-main-34:/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/drawable-hdpi_splash.png.flat",
+        "source": "com.instamatching.mobile.app-main-34:/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.instamatching.mobile.app-main-34:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/drawable-mdpi_splash.png.flat",
+        "source": "com.instamatching.mobile.app-main-34:/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "com.instamatching.mobile.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.instamatching.mobile.app-main-34:/drawable/ic_launcher_background.xml"
+    }
+]

@@ -1,3 +1,4 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:dating_app/constants/constants.dart';
 import 'package:dating_app/screens/phone_number_screen.dart';
 import 'package:dating_app/widgets/app_logo.dart';
@@ -5,6 +6,8 @@ import 'package:dating_app/widgets/default_button.dart';
 import 'package:dating_app/widgets/terms_of_service_row.dart';
 import 'package:flutter/material.dart';
 import 'package:dating_app/helpers/app_localizations.dart';
+import 'package:google_sign_in/google_sign_in.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 
 class SignInScreen extends StatefulWidget {
   const SignInScreen({Key? key}) : super(key: key);
@@ -42,6 +45,8 @@ class _SignInScreenState extends State<SignInScreen> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
+              const Spacer(),
+
               /// App logo
               const AppLogo(),
               const SizedBox(height: 10),
@@ -65,7 +70,7 @@ class _SignInScreenState extends State<SignInScreen> {
                   textAlign: TextAlign.center,
                   style: const TextStyle(fontSize: 18, color: Colors.white)),
 
-              const SizedBox(height: 50),
+              const Spacer(),
 
               /// Sign in with Phone Number
               Padding(
@@ -85,6 +90,22 @@ class _SignInScreenState extends State<SignInScreen> {
               ),
               const SizedBox(height: 15),
 
+              /// Sign in with Google
+              Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 30),
+                child: SizedBox(
+                  width: double.maxFinite,
+                  child: DefaultButton(
+                    child: const Text("Sign in with Google",
+                        style: TextStyle(fontSize: 18)),
+                    onPressed: () {
+                      signInWithGoogle(context);
+                    },
+                  ),
+                ),
+              ),
+              const Spacer(),
+
               // Terms of Service section
               Text(
                 _i18n.translate("by_tapping_log_in_you_agree_with_our"),
@@ -103,5 +124,37 @@ class _SignInScreenState extends State<SignInScreen> {
         ),
       ),
     );
+  }
+
+  void signInWithGoogle(context) async {
+    GoogleSignInAccount? googleUser = await GoogleSignIn().signIn();
+
+    GoogleSignInAuthentication? googleAuth = await googleUser?.authentication;
+
+    AuthCredential credential = GoogleAuthProvider.credential(
+      accessToken: googleAuth?.accessToken,
+      idToken: googleAuth?.idToken,
+    );
+
+    UserCredential userCredential =
+        await FirebaseAuth.instance.signInWithCredential(credential);
+
+    debugPrint('Google Signin Success ! ${userCredential.user?.email}');
+
+    if (FirebaseAuth.instance.currentUser != null) {
+      // await FirebaseFirestore.instance
+      //     .collection("Users")
+      //     .doc(userCredential.user?.uid)
+      //     .get()
+      //     .then(
+      //   (value) {
+      //     if (value.data().toString() == 'null') {
+      //       createAccount(userCredential);
+      //     }
+      //   },
+      // );
+
+      // Get.offAllNamed(Routes.home);
+    }
   }
 }

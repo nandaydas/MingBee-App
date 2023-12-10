@@ -57,6 +57,7 @@ class DefaultFirebaseOptions {
     appId: '1:292836882039:android:2eaa3909704422b3c4b872',
     messagingSenderId: '292836882039',
     projectId: 'dating-app-3a222',
+    databaseURL: 'https://dating-app-3a222-default-rtdb.firebaseio.com',
     storageBucket: 'dating-app-3a222.appspot.com',
   );
 }

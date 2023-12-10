@@ -64,6 +64,7 @@ dependencies:
   place_picker: 0.10.0 # This plugin help us to create Passport feature
   fluttertoast: 8.2.2 # For toast messages
   intl: ^0.18.0
+  google_sign_in: ^6.1.6
 dependency_overrides:
   modal_bottom_sheet: ^3.0.0-pre
 
