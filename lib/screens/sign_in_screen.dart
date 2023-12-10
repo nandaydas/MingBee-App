@@ -1,5 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:dating_app/constants/constants.dart';
+import 'package:dating_app/screens/home_screen.dart';
 import 'package:dating_app/screens/phone_number_screen.dart';
 import 'package:dating_app/widgets/app_logo.dart';
 import 'package:dating_app/widgets/default_button.dart';
@@ -142,19 +143,23 @@ class _SignInScreenState extends State<SignInScreen> {
     debugPrint('Google Signin Success ! ${userCredential.user?.email}');
 
     if (FirebaseAuth.instance.currentUser != null) {
-      // await FirebaseFirestore.instance
-      //     .collection("Users")
-      //     .doc(userCredential.user?.uid)
-      //     .get()
-      //     .then(
-      //   (value) {
-      //     if (value.data().toString() == 'null') {
-      //       createAccount(userCredential);
-      //     }
-      //   },
-      // );
+      await FirebaseFirestore.instance
+          .collection("Users")
+          .doc(userCredential.user?.uid)
+          .get()
+          .then(
+        (value) {
+          if (value.data().toString() == 'null') {
+            //TODO: Create Account
+          }
+        },
+      );
 
-      // Get.offAllNamed(Routes.home);
+      Navigator.of(context).push(
+        MaterialPageRoute(
+          builder: (context) => const HomeScreen(),
+        ),
+      );
     }
   }
 }

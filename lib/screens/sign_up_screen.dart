@@ -1,5 +1,4 @@
 import 'dart:io';
-
 import 'package:dating_app/dialogs/common_dialogs.dart';
 import 'package:dating_app/helpers/app_localizations.dart';
 import 'package:dating_app/models/user_model.dart';
