@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-8:/values-kn/values-kn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mrnan\\.gradle\\caches\\transforms-3\\4670ab6ae12e35a52ea340d65187df80\\transformed\\core-1.6.0\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "io.github.ponnamkarthik.toast.fluttertoast-merged_res-10:/values-kn/values-kn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mrnan\\.gradle\\caches\\transforms-3\\4670ab6ae12e35a52ea340d65187df80\\transformed\\core-1.6.0\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -10,6 +10,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:geocoding/geocoding.dart';
 import 'package:dating_app/plugins/geoflutterfire/geoflutterfire.dart';
+import 'package:google_sign_in/google_sign_in.dart';
 import 'package:place_picker/place_picker.dart';
 import 'package:scoped_model/scoped_model.dart';
 import 'package:geolocator/geolocator.dart';
@@ -634,6 +635,7 @@ class UserModel extends Model {
   // Sign out
   Future<void> signOut() async {
     try {
+      await GoogleSignIn().signOut();
       await _firebaseAuth.signOut();
       notifyListeners();
       debugPrint("signOut() -> success");

@@ -1,0 +1,15 @@
+com.baseflow.geolocator.geolocator_android-jetified-window-1.0.0-beta04-0 C:\Users\mrnan\.gradle\caches\transforms-3\06271b575711609837b81ec8a551266c\transformed\jetified-window-1.0.0-beta04\res
+com.baseflow.geolocator.geolocator_android-core-1.9.0-1 C:\Users\mrnan\.gradle\caches\transforms-3\1be3b94a43a2cc22e2c864e19bc37cc8\transformed\core-1.9.0\res
+com.baseflow.geolocator.geolocator_android-jetified-play-services-basement-18.1.0-2 C:\Users\mrnan\.gradle\caches\transforms-3\258cf999bbb7ed22d2e6f83489bf4462\transformed\jetified-play-services-basement-18.1.0\res
+com.baseflow.geolocator.geolocator_android-jetified-annotation-experimental-1.3.0-3 C:\Users\mrnan\.gradle\caches\transforms-3\432eb74dc06f7e55f1cf25ed6c3e00e8\transformed\jetified-annotation-experimental-1.3.0\res
+com.baseflow.geolocator.geolocator_android-jetified-play-services-base-18.1.0-4 C:\Users\mrnan\.gradle\caches\transforms-3\63bd44b2f42c84ee449658c9972fe2e7\transformed\jetified-play-services-base-18.1.0\res
+com.baseflow.geolocator.geolocator_android-jetified-window-java-1.0.0-beta04-5 C:\Users\mrnan\.gradle\caches\transforms-3\8c61d939c286f5192c38db9c302cd3e2\transformed\jetified-window-java-1.0.0-beta04\res
+com.baseflow.geolocator.geolocator_android-lifecycle-runtime-2.3.1-6 C:\Users\mrnan\.gradle\caches\transforms-3\bb860cc84d3b099481f79c7e64888cb6\transformed\lifecycle-runtime-2.3.1\res
+com.baseflow.geolocator.geolocator_android-main-7 C:\Users\mrnan\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.1.8\android\src\main\res
+com.baseflow.geolocator.geolocator_android-release-8 C:\Users\mrnan\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-4.1.8\android\src\release\res
+com.baseflow.geolocator.geolocator_android-pngs-9 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\geolocator_android\generated\res\pngs\release
+com.baseflow.geolocator.geolocator_android-resValues-10 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\geolocator_android\generated\res\resValues\release
+com.baseflow.geolocator.geolocator_android-rs-11 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\geolocator_android\generated\res\rs\release
+com.baseflow.geolocator.geolocator_android-mergeReleaseResources-12 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\geolocator_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.baseflow.geolocator.geolocator_android-mergeReleaseResources-13 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\geolocator_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.baseflow.geolocator.geolocator_android-merged_res-14 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\geolocator_android\intermediates\merged_res\release

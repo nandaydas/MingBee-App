@@ -2,6 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:dating_app/constants/constants.dart';
 import 'package:dating_app/screens/home_screen.dart';
 import 'package:dating_app/screens/phone_number_screen.dart';
+import 'package:dating_app/screens/sign_up_screen.dart';
 import 'package:dating_app/widgets/app_logo.dart';
 import 'package:dating_app/widgets/default_button.dart';
 import 'package:dating_app/widgets/terms_of_service_row.dart';
@@ -119,7 +120,7 @@ class _SignInScreenState extends State<SignInScreen> {
               ),
               TermsOfServiceRow(),
 
-              const SizedBox(height: 15),
+              const SizedBox(height: 25),
             ],
           ),
         ),
@@ -150,15 +151,19 @@ class _SignInScreenState extends State<SignInScreen> {
           .then(
         (value) {
           if (value.data().toString() == 'null') {
-            //TODO: Create Account
+            Navigator.of(context).push(
+              MaterialPageRoute(
+                builder: (context) => const SignUpScreen(),
+              ),
+            );
+          } else {
+            Navigator.of(context).push(
+              MaterialPageRoute(
+                builder: (context) => const HomeScreen(),
+              ),
+            );
           }
         },
-      );
-
-      Navigator.of(context).push(
-        MaterialPageRoute(
-          builder: (context) => const HomeScreen(),
-        ),
       );
     }
   }

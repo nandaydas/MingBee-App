@@ -1,0 +1,12 @@
+io.flutter.plugins.share-jetified-window-1.0.0-beta04-0 C:\Users\mrnan\.gradle\caches\transforms-3\06271b575711609837b81ec8a551266c\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.share-core-1.6.0-1 C:\Users\mrnan\.gradle\caches\transforms-3\4670ab6ae12e35a52ea340d65187df80\transformed\core-1.6.0\res
+io.flutter.plugins.share-jetified-annotation-experimental-1.1.0-2 C:\Users\mrnan\.gradle\caches\transforms-3\8b475e80116279bf343b270790f3d977\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.share-jetified-window-java-1.0.0-beta04-3 C:\Users\mrnan\.gradle\caches\transforms-3\8c61d939c286f5192c38db9c302cd3e2\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.share-main-4 C:\Users\mrnan\AppData\Local\Pub\Cache\hosted\pub.dev\share-2.0.4\android\src\main\res
+io.flutter.plugins.share-release-5 C:\Users\mrnan\AppData\Local\Pub\Cache\hosted\pub.dev\share-2.0.4\android\src\release\res
+io.flutter.plugins.share-pngs-6 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\share\generated\res\pngs\release
+io.flutter.plugins.share-resValues-7 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\share\generated\res\resValues\release
+io.flutter.plugins.share-rs-8 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\share\generated\res\rs\release
+io.flutter.plugins.share-mergeReleaseResources-9 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\share\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.share-mergeReleaseResources-10 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\share\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.share-merged_res-11 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\share\intermediates\merged_res\release

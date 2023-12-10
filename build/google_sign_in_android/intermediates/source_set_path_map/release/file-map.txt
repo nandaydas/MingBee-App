@@ -1,0 +1,15 @@
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-window-1.0.0-beta04-0 C:\Users\mrnan\.gradle\caches\transforms-3\06271b575711609837b81ec8a551266c\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-basement-18.2.0-1 C:\Users\mrnan\.gradle\caches\transforms-3\352813c81dd54325ce7b1afd69b1270b\transformed\jetified-play-services-basement-18.2.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-base-18.0.1-2 C:\Users\mrnan\.gradle\caches\transforms-3\3cc41a8ae48b0edc12689e1141134d1f\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.googlesignin.google_sign_in_android-core-1.6.0-3 C:\Users\mrnan\.gradle\caches\transforms-3\4670ab6ae12e35a52ea340d65187df80\transformed\core-1.6.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-annotation-experimental-1.1.0-4 C:\Users\mrnan\.gradle\caches\transforms-3\8b475e80116279bf343b270790f3d977\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-window-java-1.0.0-beta04-5 C:\Users\mrnan\.gradle\caches\transforms-3\8c61d939c286f5192c38db9c302cd3e2\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-auth-20.7.0-6 C:\Users\mrnan\.gradle\caches\transforms-3\9f61e521d0253cafe2f9f63ca09d3044\transformed\jetified-play-services-auth-20.7.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-main-7 C:\Users\mrnan\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_android-6.1.20\android\src\main\res
+io.flutter.plugins.googlesignin.google_sign_in_android-release-8 C:\Users\mrnan\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_android-6.1.20\android\src\release\res
+io.flutter.plugins.googlesignin.google_sign_in_android-pngs-9 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\google_sign_in_android\generated\res\pngs\release
+io.flutter.plugins.googlesignin.google_sign_in_android-resValues-10 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\google_sign_in_android\generated\res\resValues\release
+io.flutter.plugins.googlesignin.google_sign_in_android-rs-11 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\google_sign_in_android\generated\res\rs\release
+io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-12 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\google_sign_in_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-13 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\google_sign_in_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.googlesignin.google_sign_in_android-merged_res-14 C:\Users\mrnan\OneDrive\Desktop\Flutter\MingBee-App\build\google_sign_in_android\intermediates\merged_res\release
