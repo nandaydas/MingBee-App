@@ -4,7 +4,7 @@
             "outputFile": "com.instamatching.mobile.app-mergeDebugResources-39:/values-zh/values-zh.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mrnan\\.gradle\\caches\\transforms-3\\3545f3e0e4e5d2d738689f4c9e12d952\\transformed\\jetified-ucrop-2.2.8\\res\\values-zh\\values-zh.xml",
+                    "source": "C:\\Users\\mrnan\\.gradle\\caches\\transforms-3\\8ae21a62ba7a0f7a6566c6297e768227\\transformed\\jetified-ucrop-2.2.8\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
